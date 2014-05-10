@@ -1,0 +1,6 @@
+/intermediates
+/shoebill
+.DS_Store
+*.xcworkspace
+xcuserdata
+/gui/build
